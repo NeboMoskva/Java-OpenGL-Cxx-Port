@@ -26,10 +26,7 @@ protected:
 	// Variables to store the width and height of our display
 	int width;
 	int height;
-
-	/*
-	 * Constructor
-	 */
+	
 public:
 	// Constructor
 	DisplayManager(int height, int width);
